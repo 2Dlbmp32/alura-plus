@@ -68,7 +68,7 @@ body {
 }
 
 .secundario__imagem {
-    width: 80%;
+    width: 100%;
 }
 
 .secundario {
@@ -77,8 +77,8 @@ body {
 }
 
 .descricao__titulo {
-    font-weight: 700;
-    font-size: 48px;
+    font-weight: 800;
+    font-size: 50px;
    color: var(--branco-principal);
     margin-bottom: 0.1em;
 }
